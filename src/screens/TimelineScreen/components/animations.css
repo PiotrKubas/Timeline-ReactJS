@@ -1,0 +1,27 @@
+.popup {
+    animation-duration: 2s;
+    animation-name: slidein;
+  }
+.event {
+    animation-duration: 1s;
+    animation-name: slidein2;
+}
+  
+  @keyframes slidein {
+    from {
+      margin-right: 400%;
+    }
+  
+    to {
+      margin-right: 0%;
+    }
+  }
+  @keyframes slidein2 {
+    from {
+      margin-left: 0%;
+    }
+  
+    to {
+      margin-left: 10%;
+    }
+  }
