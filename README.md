@@ -1,6 +1,6 @@
 # About
 
-Displays events from evetns.json on dynamically created timeline.
+Displays events from events.json on dynamically created timeline.
 
 
 
